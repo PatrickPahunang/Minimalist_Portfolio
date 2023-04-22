@@ -6,7 +6,7 @@
 <div class="w-screen h-max pb-40 bg-white-950 flex justify-center items-center flex-col overflow-x-hidden">
 
 
-<div class="flex xl:flex-row h-110 flex-col justify-center items-center overflow-x-hidden">
+<div class="flex xl:flex-row xl:h-110 h-max flex-col justify-center items-center overflow-x-hidden">
 
     <div class="xl:w-128 w-96 h-96  flex items-center justify-center z-50 " data-aos="fade-right" data-aos-duration="1000" data-aos-delay="500">
      <img src="../assets/profile.jpg" alt="" class=" xl:h-110 h-60 w-max border-4 rounded-md border-white-100">
