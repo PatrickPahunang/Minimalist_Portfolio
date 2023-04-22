@@ -11,7 +11,7 @@ AOS.init();
 
 <template>
 
-<div class="w-screen h-max bg-white-950 ">
+<div class="w-screen h-max bg-white-950 overflow-x-hidden  ">
 
 
 <frontpage >
@@ -22,6 +22,7 @@ AOS.init();
 </experience>
 <projects>
 </projects>
+
 </div>
 </template>
 
