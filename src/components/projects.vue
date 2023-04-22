@@ -60,7 +60,7 @@
 
 
 
-    <p class="text-md py-4 text-white-50 z-50">Designed and Developed by John Patrick Pahunang</p>
+    <p class="text-sm py-4 text-white-50 z-50 ">Designed and Developed by John Patrick Pahunang</p>
 
 </div>
 
