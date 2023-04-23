@@ -49,7 +49,7 @@ animation: try2 2s linear infinite;
 <div class="bg h-screen w-screen flex justify-center items-center " id="text1">
     <h1 class="text-center w-screen xl:top-20 top-32 absolute xl:text-4xl text-3xl text-white-50 font-thin mb-20" data-aos="fade-down" data-aos-delay="500" data-aos-duration="1000">Entry Level <span class="font-medium">Web</span><br> <span class="font-extrabold">Developer</span></h1>
 
-<img src="../assets/bg.jpg" alt="" class="w-screen overflow-x-hidden  opacity-20 fixed h-max">
+<img src="../assets/bg.jpg" alt="" class="w-screen xl:-ml-5 object-contain overflow-x-hidden opacity-20 fixed h-max">
 
 
 

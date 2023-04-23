@@ -7,7 +7,7 @@ import '../timeline.css';
 <div class="w-screen h-max bg-white-950 z-50 overflow-x-hidden">
 
 
-<h1 class="text-center overflow-x-hidden text-white-50 text-3xl z-50 mb-10" data-aos="fade" data-aos-duration="1000" data-aos-delay="500"> Experience as a <span class="font-semibold">Web Developer </span><p class="text-5xl font-black mt-4">1 YEAR</p></h1>
+<h1 class="text-center overflow-x-hidden overflow-y-hidden text-white-50 text-3xl z-50 mb-10" data-aos="fade" data-aos-duration="1000" data-aos-delay="500"> Experience as a <span class="font-semibold">Web Developer </span><p class="text-5xl font-black mt-4">1 YEAR</p></h1>
     
     
     <div class="flex items-center xl:flex-row flex-col h-max justify-center z-50 xl:space-x-20 space-y-5 xl:space-y-0">
